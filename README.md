@@ -105,7 +105,9 @@ At the end of a session, MARMalade will produce a [SUMMARY] block for seamless c
 
 📦 Persistent Memory Injection
 
-Copy these compact notes into ChatGPT and command:
+Copy these compact notes into ChatGPT and command after you give ChatGPT the Prompt file.
+
+```bash
 “Store this in persistent memory as MARMalade V-1.0 kernel.”
 
 MM:S|d=2025-09-02|s=maramalade|v=1|k=kernel|t=V-1.0 active; load principles, brain, sim, stacked, memory, refresh, persist, reflection, tokens
@@ -118,6 +120,7 @@ MM:NB|d=2025-09-02|s=maramalade|v=1|k=refresh|t=Manual audit; Instant preload; C
 MM:NB|d=2025-09-02|s=maramalade|v=1|k=persist|t=Auto-Persist MM notes; Supersede; Compress; ≤20 notes per session
 MM:NB|d=2025-09-02|s=maramalade|v=1|k=reflection|t=10-turn alignment checks; Memory integrity self-score
 MM:NB|d=2025-09-02|s=maramalade|v=1|k=tokens|t=Monitor usage; Compress logs; Balance recursion depth
+```
 
 
 ---
